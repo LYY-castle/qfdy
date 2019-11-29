@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/iamkunya/.nvm/versions/node/v8.11.2/bin/node /Users/iamkunya/.nvm/versions/node/v8.11.2/bin/yarn add van-weapp --production
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin:/Users/iamkunya/.nvm/versions/node/v8.11.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/goWorks/bin:/usr/local/mongodb/bin:/usr/local/mysql/bin:.
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  8.11.2
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.npmjs.org/van-weapp: Not found
+      at Request.params.callback [as _callback] (/Users/iamkunya/.nvm/versions/node/v8.11.2/lib/node_modules/yarn/lib/cli.js:66830:18)
+      at Request.self.callback (/Users/iamkunya/.nvm/versions/node/v8.11.2/lib/node_modules/yarn/lib/cli.js:140464:22)
+      at emitTwo (events.js:126:13)
+      at Request.emit (events.js:214:7)
+      at Request.<anonymous> (/Users/iamkunya/.nvm/versions/node/v8.11.2/lib/node_modules/yarn/lib/cli.js:141436:10)
+      at emitOne (events.js:116:13)
+      at Request.emit (events.js:211:7)
+      at IncomingMessage.<anonymous> (/Users/iamkunya/.nvm/versions/node/v8.11.2/lib/node_modules/yarn/lib/cli.js:141358:12)
+      at Object.onceWrapper (events.js:313:30)
+      at emitNone (events.js:111:20)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
